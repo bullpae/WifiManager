@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="wifi_on">Wi-Fi 장치 켜기</string>
+    <string name="wifi_off">Wi-Fi 장치 끄기</string>
+</resources>
